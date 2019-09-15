@@ -1,0 +1,179 @@
+ZooBank ID for name or act
+Invasive Species Compendium Datasheet ID
+topic's main category
+pronunciation audio
+USDA NDB number
+BugGuide ID
+permanent duplicated item
+Encyclopedia of Life ID
+ECOS ID
+instance of
+APNI ID
+GT IBMA ID
+Great Aragonese Encyclopedia ID
+ARKive ID
+PlantList-ID
+Global Raptor Information Network ID
+taxon name
+Enciclopédia Itaú Cultural ID
+main food source
+award received
+Avibase ID
+ODNR Division of Wildlife ID
+original combination
+Status in the Red List of Threatened Species in the Czech Republic
+ABA bird ID
+BnF ID
+length
+SUDOC authorities ID
+CONABIO ID
+FloraBase ID
+described at URL
+Bashkir encyclopedia (Bashkir version) ID
+Catalogue of Life in Taiwan ID
+Commons category
+New Zealand Organisms Register ID
+Banglapedia (Bengali version) ID
+floruit
+Bashkir encyclopedia (Russian version) ID
+Global Invasive Species Database ID
+mass
+BTO Birds of Britain ID
+PSH ID
+Library of Congress authority ID
+BNCF Thesaurus ID
+GND ID
+Encyclopædia Universalis ID
+Brooklyn Museum artwork ID
+Iconclass notation
+parent taxon
+Global Species ID
+Store norske leksikon ID
+said to be the same as
+EPPO Code
+Oiseaux.net ID
+different from
+taxon common name
+video
+BirdLife Australia ID
+Euring number
+IPA transcription
+Canadian Encyclopedia article ID
+subject has role
+GRIN URL
+Map of Life ID
+IRMNG ID
+NALT ID
+Commons gallery
+AAT ID
+Sandrart.net person ID
+ADW taxon ID
+CMS ID
+Great Russian Encyclopedia Online ID
+parent of this hybrid, breed, or cultivar
+Guide to North American Birds ID
+Center for Biological Diversity ID
+New Zealand Birds Online ID
+GenBank Assembly accession
+height
+Freebase ID
+Gran Enciclopèdia Catalana ID
+time of discovery or invention
+time of earliest written record
+DORIS ID
+Uppslagsverket Finland ID
+named after
+collage image
+BioLib ID
+IUCN conservation status
+John J. Audubon's Birds of America ID
+Species at Risk public registry ID
+Internet Bird Collection species ID
+Australian Faunal Directory ID
+US National Archives Identifier
+Nederlands Soortenregister ID
+taxon author citation
+Klexikon article ID
+BALaT object ID
+Threatened Species Link ID
+Xeno-canto species ID
+Google Doodle
+discoverer or inventor
+BirdLife taxon ID
+JSTOR topic ID
+EUNIS ID for species
+Encyclopædia Britannica Online ID
+image
+FEIS ID
+significant event
+described by source
+exact match
+icon
+BHL Page ID
+wingspan
+ITIS TSN
+LACMA ID
+color
+uBio ID
+Global Biodiversity Information Facility ID
+ISNI
+Tierstimmenarchiv ID
+Species Profile and Threats Database ID
+taxon range map image
+eBird taxon ID
+Commons compatible image available at URL
+NBN System Key
+Neotropical Birds ID
+Observation.org ID
+life expectancy
+audio
+The Reptile Database ID
+taxon synonym
+Fauna Europaea New ID
+Cultureel Woordenboek identifier
+Elhuyar ZTH ID
+taxon rank
+BTO five-letter code
+habitat
+UNII
+iNaturalist taxon ID
+FAST ID
+CITES Species+ ID
+iNaturalist observation ID
+Plazi ID
+endemic to
+Plants of the World online ID
+Fauna Europaea ID
+Tropicos ID
+IUCN taxon ID
+Wiki Aves bird ID
+means of locomotion
+NDL Auth ID
+NE.se ID
+Quora topic ID
+MCN code
+FAO 2007 genetic resource ID
+audio recording of the subject's spoken voice
+has fruit type
+dissolved, abolished or demolished
+NCBI Taxonomy ID
+WoRMS-ID for taxa
+BOLD Systems taxon ID
+African Plant Database ID
+Dyntaxa ID
+Czech NDOP taxon ID
+country of origin
+ecoregion (WWF)
+BabelNet ID
+this taxon is source of
+uses
+IPNI plant ID
+has part
+SeaLifeBase ID
+replaced synonym (for nom. nov.)
+TAXREF ID
+Wolfram Language entity code
+Semantic Scholar topic ID
+Fossilworks ID
+British Museum person-institution
+Treccani ID

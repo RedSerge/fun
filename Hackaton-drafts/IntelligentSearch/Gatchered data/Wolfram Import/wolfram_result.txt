@@ -1,0 +1,107 @@
+Aepypodius arfakianus ->  1.5 kg (kilograms)
+Agelastes meleagrides ->  810 grams
+Agelastes niger ->  700 grams
+Androdon aequatorialis ->  7.3 grams
+Anorrhinus galeritus ->  1.2 kg (kilograms)
+Anorrhinus tickelli ->  720 grams
+Aphantochroa cirrochloris ->  7.7 grams
+Basilinna leucotis ->  3.6 grams
+Basilinna xantusii ->  3.5 grams
+Bycanistes brevis ->  1.1 kg (kilograms)
+Bycanistes bucinator ->  620 grams
+Bycanistes cylindricus ->  920 grams
+Bycanistes fistulator ->  620 grams
+Callipepla douglasii ->  180 grams
+Caloperdix oculea ->  190 grams
+Chordeiles acutipennis ->  50 grams
+Chordeiles gundlachii ->  79 grams
+Chordeiles minor ->  (65 to 98) grams
+Chordeiles pusillus ->  31 grams
+Chrysuronia oenone ->  5 grams
+Clytolaema rubricauda ->  7.9 grams
+Colinus cristatus ->  140 grams
+Colinus leucopogon ->  140 grams
+Colinus nigrogularis ->  140 grams
+Cyanophaia bicolor ->  4.5 grams
+Cyrtonyx ocellatus ->  220 grams
+Dactylortyx thoracicus ->  210 grams
+Dendrortyx barbatus ->  (400 to 460) grams
+Dendrortyx leucophrys ->  400 grams
+Dendrortyx macroura ->  420 grams
+Eurostopodus argus ->  98 grams
+Goethalsia bella ->  3.5 grams
+Haematortyx sanguiniceps ->  300 grams
+Heliactin bilophus ->  4.4 grams
+Heliactin cornuta ->  4.4 grams
+Lamprolaima rhami ->  8 grams
+Leucochloris albicollis ->  6.3 grams
+Megapodius bernsteinii ->  930 grams
+Megapodius cumingii ->  840 grams
+Megapodius eremita ->  710 grams
+Megapodius freycinet ->  650 grams
+Megapodius laperouse ->  300 grams
+Megapodius pritchardii ->  370 grams
+Mesitornis unicolor ->  150 grams
+Microchera albocoronata ->  2.7 grams
+Microstilbon burmeisteri ->  2.5 grams
+Musophaga rossae ->  360 grams
+Musophaga violacea ->  360 grams
+Nyctibius aethereus ->  440 grams
+Nyctibius bracteatus ->  52 grams
+Nyctibius jamaicensis ->  170 grams
+Nyctibius maculosus ->  88 grams
+Nyctidromus albicollis ->  58 grams
+Nyctiprogne leucopyga ->  27 grams
+Ocyceros gingalensis ->  240 grams
+Odontophorus atrifrons ->  300 grams
+Odontophorus balliviani ->  320 grams
+Odontophorus capueira ->  430 grams
+Odontophorus columbianus ->  340 grams
+Odontophorus dialeucos ->  260 grams
+Odontophorus erythrops ->  330 grams
+Odontophorus gujanensis ->  330 grams
+Odontophorus hyperythrus ->  350 grams
+Odontophorus leucolaemus ->  300 grams
+Odontophorus melanonotus ->  320 grams
+Odontophorus melanotis ->  330 grams
+Odontophorus speciosus ->  320 grams
+Odontophorus stellatus ->  360 grams
+Odontophorus strophium ->  300 grams
+Penelopides affinis ->  480 grams
+Penelopides exarhatus ->  370 grams
+Penelopides manillae ->  470 grams
+Penelopides panini ->  470 grams
+Phoeniculus somaliensis ->  27 grams
+Pipile cujubi ->  1.2 kg (kilograms)
+Pipile jacutinga ->  1.4 kg (kilograms)
+Pterocles burchelli ->  180 grams
+Pterocles coronatus ->  300 grams
+Pterocles personatus ->  14 grams
+Pterocles quadricinctus ->  180 grams
+Pterocles senegallus ->  260 grams
+Rhinopomastus aterrimus ->  28 grams
+Rhinopomastus minor ->  22 grams
+Rhizothera dulitensis ->  800 grams
+Setopagis anthonyi ->  (0.001 to 0.03) grams
+Talegalla cuvieri ->  1.8 kg (kilograms)
+Talegalla jobiensis ->  1.6 kg (kilograms)
+Tauraco bannermani ->  220 grams
+Tauraco corythaix ->  310 grams
+Tauraco fischeri ->  250 grams
+Tauraco leucolophus ->  220 grams
+Tauraco livingstonii ->  250 grams
+Tauraco macrorhynchus ->  250 grams
+Tauraco porphyreolophus ->  260 grams
+Tauraco ruspolii ->  260 grams
+Tauraco schalowi ->  220 grams
+Tauraco schuettii ->  240 grams
+Tockus albocristatus ->  290 grams
+Tockus alboterminatus ->  200 grams
+Tockus bradfieldi ->  200 grams
+Tockus camurus ->  110 grams
+Tockus hartlaubi ->  110 grams
+Tockus hemprichii ->  300 grams
+Tockus jacksoni ->  180 grams
+Tockus nasutus ->  190 grams
+Tockus pallidirostris ->  170 grams
+Tropicranus albocristatus ->  290 grams

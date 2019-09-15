@@ -1,0 +1,537 @@
+P1746
+	
+ZooBank ID for name or act
+P5698
+	
+Invasive Species Compendium Datasheet ID
+P910
+	
+topic's main category
+P443
+	
+pronunciation audio
+P1978
+	
+USDA NDB number
+P2464
+	
+BugGuide ID
+P2959
+	
+permanent duplicated item
+P830
+	
+Encyclopedia of Life ID
+P6030
+	
+ECOS ID
+P31
+	
+instance of
+P5984
+	
+APNI ID
+P6054
+	
+GT IBMA ID
+P1807
+	
+Great Aragonese Encyclopedia ID
+P2833
+	
+ARKive ID
+P1070
+	
+PlantList-ID
+P6045
+	
+Global Raptor Information Network ID
+P225
+	
+taxon name
+P4399
+	
+Enciclopédia Itaú Cultural ID
+P1034
+	
+main food source
+P166
+	
+award received
+P2026
+	
+Avibase ID
+P6289
+	
+ODNR Division of Wildlife ID
+P1403
+	
+original combination
+P5841
+	
+Status in the Red List of Threatened Species in the Czech Republic
+P4526
+	
+ABA bird ID
+P268
+	
+BnF ID
+P2043
+	
+length
+P269
+	
+SUDOC authorities ID
+P4902
+	
+CONABIO ID
+P3101
+	
+FloraBase ID
+P973
+	
+described at URL
+P4210
+	
+Bashkir encyclopedia (Bashkir version) ID
+P3088
+	
+Catalogue of Life in Taiwan ID
+P373
+	
+Commons category
+P2752
+	
+New Zealand Organisms Register ID
+P4254
+	
+Banglapedia (Bengali version) ID
+P1317
+	
+floruit
+P4211
+	
+Bashkir encyclopedia (Russian version) ID
+P5626
+	
+Global Invasive Species Database ID
+P2067
+	
+mass
+P4798
+	
+BTO Birds of Britain ID
+P1051
+	
+PSH ID
+P244
+	
+Library of Congress authority ID
+P508
+	
+BNCF Thesaurus ID
+P227
+	
+GND ID
+P3219
+	
+Encyclopædia Universalis ID
+P4740
+	
+Brooklyn Museum artwork ID
+P1256
+	
+Iconclass notation
+P171
+	
+parent taxon
+P6433
+	
+Global Species ID
+P4342
+	
+Store norske leksikon ID
+P460
+	
+said to be the same as
+P3031
+	
+EPPO Code
+P6025
+	
+Oiseaux.net ID
+P1889
+	
+different from
+P1843
+	
+taxon common name
+P10
+	
+video
+P6040
+	
+BirdLife Australia ID
+P3459
+	
+Euring number
+P898
+	
+IPA transcription
+P5395
+	
+Canadian Encyclopedia article ID
+P2868
+	
+subject has role
+P1421
+	
+GRIN URL
+P6092
+	
+Map of Life ID
+P5055
+	
+IRMNG ID
+P2004
+	
+NALT ID
+P935
+	
+Commons gallery
+P1014
+	
+AAT ID
+P1422
+	
+Sandrart.net person ID
+P4024
+	
+ADW taxon ID
+P6033
+	
+CMS ID
+P2924
+	
+Great Russian Encyclopedia Online ID
+P1531
+	
+parent of this hybrid, breed, or cultivar
+P4715
+	
+Guide to North American Birds ID
+P6003
+	
+Center for Biological Diversity ID
+P6048
+	
+New Zealand Birds Online ID
+P4333
+	
+GenBank Assembly accession
+P2048
+	
+height
+P646
+	
+Freebase ID
+P1296
+	
+Gran Enciclopèdia Catalana ID
+P575
+	
+time of discovery or invention
+P1249
+	
+time of earliest written record
+P4630
+	
+DORIS ID
+P4854
+	
+Uppslagsverket Finland ID
+P138
+	
+named after
+P2716
+	
+collage image
+P838
+	
+BioLib ID
+P141
+	
+IUCN conservation status
+P6041
+	
+John J. Audubon's Birds of America ID
+P6019
+	
+Species at Risk public registry ID
+P3099
+	
+Internet Bird Collection species ID
+P6039
+	
+Australian Faunal Directory ID
+P1225
+	
+US National Archives Identifier
+P3405
+	
+Nederlands Soortenregister ID
+P6507
+	
+taxon author citation
+P6573
+	
+Klexikon article ID
+P3293
+	
+BALaT object ID
+P6128
+	
+Threatened Species Link ID
+P2426
+	
+Xeno-canto species ID
+P4431
+	
+Google Doodle
+P61
+	
+discoverer or inventor
+P5257
+	
+BirdLife taxon ID
+P3827
+	
+JSTOR topic ID
+P6177
+	
+EUNIS ID for species
+P1417
+	
+Encyclopædia Britannica Online ID
+P18
+	
+image
+P6044
+	
+FEIS ID
+P793
+	
+significant event
+P1343
+	
+described by source
+P2888
+	
+exact match
+P2910
+	
+icon
+P687
+	
+BHL Page ID
+P2050
+	
+wingspan
+P815
+	
+ITIS TSN
+P4611
+	
+LACMA ID
+P462
+	
+color
+P4728
+	
+uBio ID
+P846
+	
+Global Biodiversity Information Facility ID
+P213
+	
+ISNI
+P5397
+	
+Tierstimmenarchiv ID
+P2455
+	
+Species Profile and Threats Database ID
+P181
+	
+taxon range map image
+P3444
+	
+eBird taxon ID
+P4765
+	
+Commons compatible image available at URL
+P3240
+	
+NBN System Key
+P6047
+	
+Neotropical Birds ID
+P6105
+	
+Observation.org ID
+P2250
+	
+life expectancy
+P51
+	
+audio
+P5473
+	
+The Reptile Database ID
+P1420
+	
+taxon synonym
+P4807
+	
+Fauna Europaea New ID
+P3569
+	
+Cultureel Woordenboek identifier
+P4746
+	
+Elhuyar ZTH ID
+P105
+	
+taxon rank
+P4567
+	
+BTO five-letter code
+P2974
+	
+habitat
+P652
+	
+UNII
+P3151
+	
+iNaturalist taxon ID
+P2163
+	
+FAST ID
+P2040
+	
+CITES Species+ ID
+P5683
+	
+iNaturalist observation ID
+P1992
+	
+Plazi ID
+P183
+	
+endemic to
+P5037
+	
+Plants of the World online ID
+P1895
+	
+Fauna Europaea ID
+P960
+	
+Tropicos ID
+P627
+	
+IUCN taxon ID
+P4664
+	
+Wiki Aves bird ID
+P3512
+	
+means of locomotion
+P349
+	
+NDL Auth ID
+P3222
+	
+NE.se ID
+P3417
+	
+Quora topic ID
+P1987
+	
+MCN code
+P3380
+	
+FAO 2007 genetic resource ID
+P990
+	
+audio recording of the subject's spoken voice
+P4000
+	
+has fruit type
+P576
+	
+dissolved, abolished or demolished
+P685
+	
+NCBI Taxonomy ID
+P850
+	
+WoRMS-ID for taxa
+P3606
+	
+BOLD Systems taxon ID
+P2036
+	
+African Plant Database ID
+P1939
+	
+Dyntaxa ID
+P5263
+	
+Czech NDOP taxon ID
+P495
+	
+country of origin
+P1425
+	
+ecoregion (WWF)
+P2581
+	
+BabelNet ID
+P1672
+	
+this taxon is source of
+P2283
+	
+uses
+P961
+	
+IPNI plant ID
+P527
+	
+has part
+P6018
+	
+SeaLifeBase ID
+P694
+	
+replaced synonym (for nom. nov.)
+P3186
+	
+TAXREF ID
+P4839
+	
+Wolfram Language entity code
+P6611
+	
+Semantic Scholar topic ID
+P842
+	
+Fossilworks ID
+P1711
+	
+British Museum person-institution
+P3365
+	
+Treccani ID
