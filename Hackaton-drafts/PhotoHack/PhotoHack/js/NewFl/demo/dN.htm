@@ -1,0 +1,111 @@
+<html>
+<body>
+<script src="/static/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r83/three.min.js"></script>
+<script>
+var camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 1, 100);
+camera.position.set(0, 0, 0);
+
+var scene = new THREE.Scene();
+
+
+
+//11111111111111111111111111111111111111
+var light = new THREE.PointLight();
+light.position.set(0, 20, 50);
+scene.add(light);
+//1111111111111111111111111111111111111111
+
+
+
+
+
+var renderer = renderer = new THREE.WebGLRenderer({
+  antialias: true   //1111111111111111111111111111111111
+});
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement);
+
+var textures=[]
+function ReceiveTexture(name) {
+	var texture = new THREE.TextureLoader().load("/static/textures/"+name);
+	var material = new THREE.MeshBasicMaterial({ map : texture, side: THREE.DoubleSide});
+	textures.push(material)
+}
+
+var def_sizes=[20,40,32]
+
+var planes=[]
+var corrections=[]
+function AddPlane(sizes,texture_index,correction){
+	var geometry = new THREE.PlaneGeometry(sizes[0], sizes[1], sizes[2]);
+	var plane = new THREE.Mesh(geometry, textures[texture_index]);
+
+	//1111111111111111111111111111111111111111
+	plane.material.side = THREE.DoubleSide;
+
+
+	scene.add(plane);
+	planes.push(plane);
+	corrections.push(correction);
+}
+
+function setCamera(x,y,z) {
+	camera.position.x=x;
+	camera.position.y=y;
+	camera.position.z=z;
+}
+
+
+//1111111111111111111111111111111111111111
+var geometry = new THREE.BoxGeometry(0,0,0);
+var mesh = new THREE.Mesh(geometry);
+//scene.add(mesh);
+
+var plane = new THREE.GridHelper(20, 40);
+scene.add(plane);
+//1111111111111111111111111111111111111111
+
+
+var clock = new THREE.Clock();
+var angle = 0;
+var angularSpeed = THREE.Math.degToRad(20); 
+var delta = 0;
+var radius = 70;
+
+
+
+function animate() {
+	delta = clock.getDelta();
+  requestAnimationFrame(animate);
+
+
+  var l=planes.length;
+	for(var i=0;i<l;i++) {
+		planes[i].rotation.x+=corrections[i][0]
+		planes[i].rotation.y+=corrections[i][1]
+		planes[i].rotation.z+=corrections[i][2]
+		planes[i].position.x+=corrections[i][3]
+		planes[i].position.y+=corrections[i][4]
+		planes[i].position.z+=corrections[i][5]
+	}
+
+  camera.position.x = Math.cos(angle) * radius;
+  camera.position.z = Math.sin(angle) * radius;
+  angle += angularSpeed * delta;
+
+
+
+  camera.lookAt(mesh.position);
+  renderer.render(scene, camera);
+}
+
+ReceiveTexture("text.jpg")
+AddPlane(def_sizes,0,[0,0,0.04,0,0,0])
+AddPlane(def_sizes,0,[0.04,0.04,0.04,0,0,0])
+//setCamera(10,20,200)
+
+animate();
+</script>
+</body>
+</html>

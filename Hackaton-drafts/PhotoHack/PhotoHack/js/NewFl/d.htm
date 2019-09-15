@@ -1,0 +1,62 @@
+<html>
+<body>
+<script src="/static/three.min.js"></script>
+<script>
+var scene = new THREE.Scene();
+var camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+var renderer = new THREE.WebGLRenderer();
+renderer.setSize( window.innerWidth, window.innerHeight );
+document.body.appendChild(renderer.domElement);
+
+var textures=[]
+function ReceiveTexture(name) {
+	var texture = new THREE.TextureLoader().load("/static/textures/"+name);
+	var material = new THREE.MeshBasicMaterial({ map : texture, side: THREE.DoubleSide});
+	textures.push(material)
+}
+
+var def_sizes=[20,40,32] //5 20 32?
+
+var planes=[]
+var corrections=[]
+function AddPlane(sizes,texture_index,correction){
+	var geometry = new THREE.PlaneGeometry(sizes[0], sizes[1], sizes[2]);
+	var plane = new THREE.Mesh(geometry, textures[texture_index]);
+	plane.material.side = THREE.DoubleSide;
+	scene.add(plane);
+	planes.push(plane);
+	corrections.push(correction);
+}
+
+function setCamera(x,y,z) {	
+	camera.position.x=x;
+	camera.position.y=y;
+	camera.position.z=z;
+}
+
+function animate() {
+	requestAnimationFrame( animate );
+	
+	var l=planes.length;
+	for(var i=0;i<l;i++) {
+		planes[i].rotation.x+=corrections[i][0]
+		planes[i].rotation.y+=corrections[i][1]
+		planes[i].rotation.z+=corrections[i][2]
+		planes[i].position.x+=corrections[i][3]
+		planes[i].position.y+=corrections[i][4]
+		planes[i].position.z+=corrections[i][5]
+	}
+	
+	renderer.render( scene, camera );
+}
+
+ReceiveTexture("text.jpg")
+AddPlane(def_sizes,0,[0,0,0.04,0.25,0,0.29])
+AddPlane(def_sizes,0,[0,0,0.04,-0.25,0,0.29])
+setCamera(10,20,200)
+
+
+animate();
+</script>
+</body>
+</html>

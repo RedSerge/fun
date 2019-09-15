@@ -1,0 +1,43 @@
+<style>
+
+.topFace div {
+  -webkit-transform: skewY(-10deg) scaleY(1);  
+}
+
+.topFace {
+  -webkit-transform: rotate(60deg);
+  top: -158px;
+  left: 100px;
+}
+
+div.contains {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+</style>
+<body>
+<div class="contains">
+  <div id="top0" class="topFace">
+    <div id="top1">
+      <img src="2.png">
+    </div>
+  </div>
+</div>
+
+<script>
+
+var d=-140;
+function ch(){
+	d+=1;
+	var x=document.getElementById('top0')
+	x.setAttribute("style","top:"+d+"px");
+}
+ 
+var t=setInterval(ch,1000);
+
+</script>
+
+</body>

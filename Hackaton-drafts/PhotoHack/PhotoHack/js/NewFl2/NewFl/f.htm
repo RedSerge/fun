@@ -1,0 +1,72 @@
+<style>
+.cube {
+  position: relative;
+  top: 200px;
+}
+
+.rightFace,
+.leftFace,
+.topFace div {
+  padding: 10px;
+  width: 180px;
+  height: 180px;
+}
+
+.rightFace,
+.leftFace,
+.topFace {
+  position: absolute;
+}
+
+.leftFace {
+  -webkit-transform: skewY(30deg);
+  -moz-transform: skewY(30deg);
+  background-color: #ccc;
+}
+
+.rightFace {
+  -webkit-transform: skewY(-30deg);
+  -moz-transform: skewY(-30deg);
+  background-color: #ddd;
+  left: 200px;
+}
+
+.topFace div {
+  -webkit-transform: skewY(-30deg) scaleY(1.16);
+  -moz-transform: skewY(-30deg) scaleY(1.16);
+  background-color: #eee;
+  font-size: 0.862em;
+}
+
+.topFace {
+  -webkit-transform: rotate(60deg);
+  -moz-transform: rotate(60deg);
+  top: -158px;
+  left: 100px;
+}
+
+div.contains {
+  position: absolute;
+  top: 25%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+}
+
+</style>
+<body>
+<div class="contains">
+<div class="cube">
+  <div class="topFace">
+    <div>
+      <img src="2.png">
+    </div>
+  </div>
+  <div class="leftFace">
+    <img src="2.png">
+  </div>
+  <div class="rightFace">
+    <img src="2.png">
+  </div>
+</div>
+</div>
+</body>

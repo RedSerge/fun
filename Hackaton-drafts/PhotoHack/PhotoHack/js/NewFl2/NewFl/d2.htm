@@ -1,0 +1,89 @@
+<script>
+  const geometry = new THREE.BoxBufferGeometry( 2, 2, 2 );
+
+  // create a texture loader.
+  const textureLoader = new THREE.TextureLoader();
+
+  // Load a texture. See the note in chapter 4 on working locally, or the page
+  // https://threejs.org/docs/#manual/introduction/How-to-run-things-locally
+  // if you run into problems here
+  const texture = textureLoader.load( '/static/textures/2.png' );
+
+  // set the "color space" of the texture
+  texture.encoding = THREE.sRGBEncoding;
+
+  // reduce blurring at glancing angles
+  texture.anisotropy = 16;
+
+  // create a Standard material using the texture we just loaded as a color map
+  const material = new THREE.MeshStandardMaterial( {
+    map: texture,
+  } );
+
+  // create a Mesh containing the geometry and material
+  mesh = new THREE.Mesh( geometry, material );
+  
+  
+  
+</script>
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=utf-8>
+		<title>My first three.js app</title>
+		<style>
+			body { margin: 0; }
+			canvas { width: 100%; height: 100% }
+		</style>
+	</head>
+	<body>
+		<script src="/static/three.min.js"></script>
+		<script>
+
+
+var scene = new THREE.Scene();
+var camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 1000 );
+
+var renderer = new THREE.WebGLRenderer();
+renderer.setSize( window.innerWidth, window.innerHeight );
+document.body.appendChild( renderer.domElement );
+
+//var geometry = new THREE.BoxGeometry( 1, 1, 1 );
+var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+var cube = new THREE.Mesh( geometry, material );
+
+var loader = new THREE.CubeTextureLoader();
+loader.setPath( '/static/textures/' );
+
+var s='2.png'
+
+var textureCube = loader.load( [
+	s, s,
+	s, s,
+	s, s
+] );
+
+var material = new THREE.MeshBasicMaterial( { transparent: true, color: 0xffffff, envMap: textureCube } );
+
+var geometry = new THREE.BoxGeometry( 10, 20, 30 );
+var cube = new THREE.Mesh( geometry, material );
+
+scene.add( cube );
+
+camera.position.x= 40;
+camera.position.y= 20;
+camera.position.z =100;
+
+function animate() {
+	requestAnimationFrame( animate );
+	//cube.rotation.x += 0.01;
+	//cube.rotation.y += 0.01;
+	renderer.render( scene, camera );
+}
+animate();
+
+		</script>
+	</body>
+</html>
