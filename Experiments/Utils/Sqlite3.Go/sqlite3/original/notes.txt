@@ -1,0 +1,2 @@
+This folder contains original SQLite3 files (sqlite3.c & sqlite3.h).
+Download them at https://www.sqlite.org/download.html
