@@ -1,0 +1,9 @@
+Episode reward: 3.000	Steps: 107	Avg. loss: 0.0	Avg. reward: 3.0	Avg. Q: 3.7776291578358205	Greedinessless: 0.02	Vanilla reward: 3.000
+Episode reward: 7.000	Steps: 261	Avg. loss: 0.0	Avg. reward: 5.0	Avg. Q: 4.011670509071061	Greedinessless: 0.02	Vanilla reward: 7.000
+Episode reward: 11.000	Steps: 488	Avg. loss: 0.0	Avg. reward: 7.0	Avg. Q: 4.298739956776651	Greedinessless: 0.02	Vanilla reward: 11.000
+Episode reward: 9.000	Steps: 665	Avg. loss: 0.0	Avg. reward: 7.5	Avg. Q: 4.431550755675903	Greedinessless: 0.02	Vanilla reward: 9.000
+Episode reward: 11.000	Steps: 874	Avg. loss: 0.0	Avg. reward: 8.2	Avg. Q: 3.944963046333246	Greedinessless: 0.02	Vanilla reward: 11.000
+Episode reward: 10.000	Steps: 1055	Avg. loss: 0.0	Avg. reward: 8.5	Avg. Q: 3.792106411843449	Greedinessless: 0.02	Vanilla reward: 10.000
+
+True pts: [3.0, 7.0, 11.0, 9.0, 11.0, 10.0] 
+Mod pts: [3.0, 7.0, 11.0, 9.0, 11.0, 10.0]

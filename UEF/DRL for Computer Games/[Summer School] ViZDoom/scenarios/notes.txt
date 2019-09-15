@@ -1,0 +1,2 @@
+This folder contains original ViZDoom scenarios.
+Download them at https://github.com/mwydmuch/ViZDoom/tree/master/scenarios

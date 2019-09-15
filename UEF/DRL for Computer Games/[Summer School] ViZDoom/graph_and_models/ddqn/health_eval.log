@@ -1,0 +1,11 @@
+Episode reward: 5.620	Steps: 247	Avg. loss: 0.0	Avg. reward: 5.620000000000039	Avg. Q: 3.0465234764191784	Greedinessless: 0.02	Vanilla reward: 892.000
+Episode reward: 28.090	Steps: 772	Avg. loss: 0.0	Avg. reward: 16.854999999999897	Avg. Q: 3.574924480801537	Greedinessless: 0.02	Vanilla reward: 2100.000
+Episode reward: 24.050	Steps: 1297	Avg. loss: 0.0	Avg. reward: 19.25333333333317	Avg. Q: 3.397160934720721	Greedinessless: 0.02	Vanilla reward: 2100.000
+Episode reward: -0.180	Steps: 1417	Avg. loss: 0.0	Avg. reward: 14.394999999999877	Avg. Q: 2.8583462331030103	Greedinessless: 0.02	Vanilla reward: 380.000
+Episode reward: 13.390	Steps: 1897	Avg. loss: 0.0	Avg. reward: 14.193999999999921	Avg. Q: 3.236221781041887	Greedinessless: 0.02	Vanilla reward: 1820.000
+Episode reward: 22.030	Steps: 2422	Avg. loss: 0.0	Avg. reward: 15.499999999999902	Avg. Q: 3.486852407909575	Greedinessless: 0.02	Vanilla reward: 2100.000
+Episode reward: 5.610	Steps: 2670	Avg. loss: 0.0	Avg. reward: 14.08714285714278	Avg. Q: 3.228443184206563	Greedinessless: 0.02	Vanilla reward: 892.000
+Episode reward: 20.060	Steps: 3190	Avg. loss: 0.0	Avg. reward: 14.833749999999904	Avg. Q: 3.357907727589974	Greedinessless: 0.02	Vanilla reward: 1980.000
+
+True pts: [892.0, 2100.0, 2100.0, 380.0, 1820.0, 2100.0, 892.0, 1980.0] 
+Mod pts: [5.620000000000039, 28.089999999999755, 24.049999999999716, -0.18000000000000066, 13.390000000000088, 22.029999999999813, 5.610000000000039, 20.059999999999775]
