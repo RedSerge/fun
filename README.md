@@ -12,7 +12,7 @@ Assembler, C, C++, C#, Go, JS, VBA, Free Pascal, Python.
 
 1)	AliAsM – this code expands GAS (GNU Assembler) with new metacommand “alias” to make self-styled macros. Example: Improved Euler Method applied for Kolmogorov equations for Markov process parameters identification.
 2)	DAISYGen7 – the program to convert ordinary audiobooks into DAISY-compatible format.
-3)	Education\HTMLQuiz – special quiz written for student to test their HTML/JS/CSS skills.
+3)	Education\HTMLQuiz – special quiz written for students to test their HTML/JS/CSS skills.
 4)	Education\SeaShore – battleship game for students with strict rules, where the goal is to write proper JS bot for the game environment; misplaced ships and unwise (a priori useless) shots lead to penalty (negative) points, the reward (positive points) is provided for every effective action (like hitting enemy ship).
 5)	Excel_MD – MultiDimensional Excel document (“deep” cells).
 6)	GRoadHog – this set of tools converts/recovers files into/from a bunch of CSVs used to upload the arbitrary info to the Google Drive for free (as Google Docs).
